@@ -1,7 +1,7 @@
 import UIKit
 
 //Initial information
-let gender : String = "Male"
+let gender : String = "Female"
 
 let femaleAge : Float = 19
 let femaleWeightLb : Float = 125
